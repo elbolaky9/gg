@@ -1,0 +1,6 @@
+token= NTI3MTA1MDk0MDg5NDQxMjgx.Dwzp4Q.44pcdge12SGhTGIhuwXVr_4qthM
+owner= 418889394322407445
+prefix= $
+game= $play
+stayinchannel= true
+songinstatus= false
